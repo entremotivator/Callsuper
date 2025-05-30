@@ -1,0 +1,102 @@
+# Core Streamlit Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.15.0
+
+# Google Sheets Integration
+gspread>=5.10.0
+google-auth>=2.22.0
+google-auth-oauthlib>=1.0.0
+
+# HTTP Requests for API calls
+requests>=2.31.0
+
+# Date and Time Handling
+python-dateutil>=2.8.2
+
+# Data Classes and Type Hints
+dataclasses
+typing-extensions>=4.7.0
+
+# UUID Generation
+uuid
+
+# Hashing
+hashlib
+
+# JSON Processing
+json
+
+# Time Operations
+time
+datetime
+
+# Threading for Async Operations
+threading
+asyncio
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# File Processing for CSV/Excel uploads
+openpyxl>=3.1.2
+
+# Base64 Encoding for file handling
+base64
+
+# IO Operations
+io
+
+# Enum Support
+enum
+
+# Collections
+collections
+
+# Random Number Generation
+random
+
+# Math Operations
+math
+
+# Regular Expressions
+re
+
+# Operating System Interface
+os
+sys
+
+# Copy Operations
+copy
+
+# Itertools
+itertools
+
+# Functools
+functools
+
+# Pathlib for file paths
+pathlib
+
+# Warnings
+warnings
+
+# Secrets for secure random generation
+secrets
+
+# Statistics
+statistics
+
+# Decimal for precise calculations
+decimal
+
+# Phone Number Validation (optional)
+phonenumbers>=8.13.0
+
+# Timezone Support
+pytz>=2023.3
